@@ -7,7 +7,7 @@
 		<string>per</string>
 	</array>
 	<key>name</key>
-	<string>Genero Forms (per)</string>
+	<string>Genero per</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -452,7 +452,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>source.per</string>
+	<string>source.genero-per</string>
 	<key>uuid</key>
 	<string>6037979D-3F15-435A-8A4A-A06D48A77E06</string>
 </dict>
